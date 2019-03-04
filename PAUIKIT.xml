@@ -17,6 +17,15 @@
     <language>
       <![CDATA[en]]>
     </language>
+     <item>
+      <title>
+        <![CDATA[PA_Library1.0.5]]>
+      </title>
+      <enclosure
+        url="https://raw.githubusercontent.com/TinahuaChen/PA_UIKIT/master/PA_Library1.0.5.sketch"
+        type="application/octet-stream"
+        sparkle:version="1.0.5"/>
+    </item>
     <item>
       <title>
         <![CDATA[PA_Library1.0.4]]>
